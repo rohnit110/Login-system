@@ -1,0 +1,14 @@
+body{
+    background-color:aqua;
+    color: black;
+    padding: 140px;
+    text-align:left;
+    
+}
+
+input {
+    border-style:double;
+}
+#Photo {
+    padding-block-start:0cm;
+}
